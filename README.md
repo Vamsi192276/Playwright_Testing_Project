@@ -29,7 +29,7 @@ The project includes atomic tests (`todo.spec.js`) covering:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/pratik9905/MiniProject_PlayWright.git
+    git clone https://github.com/Vamsi192276/Playwright_Testing_Project/edit/main
     ```
 2.  **Install dependencies:**
     ```bash
@@ -53,4 +53,4 @@ The project includes atomic tests (`todo.spec.js`) covering:
 Feel free to fork this project and submit PRs! Open to discussions on improving test patterns.
 
 ---
-*Created by Pratik - SDET / QA Engineer*# Playwright_Testing_Project
+*Created by Vamsi - SDET / QA Engineer*# Playwright_Testing_Project
